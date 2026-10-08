@@ -18,6 +18,7 @@ export async function onRequest(context) {
     <meta property="og:type" content="website" />
     <title></title>
 </head>
+<meta name="facebook-domain-verification" content="5xj05egr00ee1rn77myvrh2z46tttz" />
 <body>
 </body>
 </html>`;
